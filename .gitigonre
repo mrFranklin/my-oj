@@ -1,7 +1,0 @@
-*
-
-!*.cpp
-!*.c
-!Makefile
-!std.in
-!std.out
